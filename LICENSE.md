@@ -4,7 +4,7 @@
 
 引用或转载时请注明出处并附仓库链接：
 
-> 孙飞扬、朱广奥、陈涛、庞锦城、杨远帆（2026）。医学 AI 健康咨询中的信任线索：来源标签与对话语态的预注册（v1.0）。GitHub。
+> 孙飞扬、朱广奥、陈涛、庞锦城、杨远帆、赵思凡（2026）。医学 AI 健康咨询中的信任线索：来源标签与对话语态的预注册（v1.0）。GitHub。
 
 协议全文见：<https://creativecommons.org/licenses/by/4.0/legalcode.zh>
 简明说明见：<https://creativecommons.org/licenses/by/4.0/deed.zh>
